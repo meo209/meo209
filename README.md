@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm meo209</h1>
 <h3 align="center">Developer from Germany</h3>
 
-- 🔭 I’m currently working on **Eternal**
-
+- 🔭 I’m currently working on **Eternal (Weave Cheat Mod)**
+ 
 - 📫 How to reach me **rickastley@gmail.com**
 
 
