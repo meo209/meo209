@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm meo209</h1>
-- 🔭 I’m currently working on **Syncronizer**
+
+- 🔭 I’m currently working on **Synchronizer**
 
 - 🌱 I’m currently learning **Kotlin**
 
