@@ -1,3 +1,0 @@
-Hartsfield: 1600 1800
-Nuclear Plant: -2600 -2500
-Militar Zone (4m Hilltop) (near Kingdom): 139 -2745 
