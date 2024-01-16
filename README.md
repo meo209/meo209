@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm meo209</h1>
 
-- 🔭 I’m currently working on **Synchronizer**
-
 - 🌱 I’m currently learning **Kotlin**
+
+- Professional German
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
