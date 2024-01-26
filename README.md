@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
+- I’m the developer of **Meoware**
+
 - Professional German
 
 <h3 align="left">Connect with me:</h3>
