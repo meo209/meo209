@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm meo209</h1>
 
-- 🌱 I’m currently learning **Kotlin**
-
-- I’m the developer of **Meoware**
+- I’m the developer of **Lera**
 
 - Professional German
 
