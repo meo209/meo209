@@ -2,6 +2,8 @@
 
 ###
 
+<h2 align="left">I'm currently developing the <em>Artifact</em> Game Engine.</h2>
+
 <h3 align="left">Here are my very bad github stats:</h3>  
 
 <div align="center">
