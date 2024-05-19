@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I'm currently developing the <em>Artifact</em> Game Engine.</h2>
+<h2 align="left">I'm currently developing the <em>Artifact</em> Game Engine and the Volt Pokémon GO bot.</h2>
 
 ###
 
