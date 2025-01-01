@@ -1,11 +1,5 @@
 <h2 align="left">Hi 👋! My name is meo209.</h2>
 
-###
-
-<h2 align="left">I'm currently developing the <em>Artifact</em> Game Engine and <em>YEET</em>.</h2>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/meo209/count.svg?"  />
 </div>
